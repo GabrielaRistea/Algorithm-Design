@@ -1,0 +1,44 @@
+
+
+Test1 
+Rezultat obtinut V1: 22 
+Rezultat obtinut V2: 22 
+
+Test2 
+Rezultat obtinut V1: 64 
+Rezultat obtinut V2: 64 
+
+Test3 
+Rezultat obtinut V1: 93 
+Rezultat obtinut V2: 93 
+
+Test4 
+Rezultat obtinut V1: 200 
+Rezultat obtinut V2: 200 
+
+Test5 
+Rezultat obtinut V1: 155 
+Rezultat obtinut V2: 155 
+
+Test6 
+Rezultat obtinut V1: 400 
+Rezultat obtinut V2: 400 
+
+Test7 
+Rezultat obtinut V1: 367 
+Rezultat obtinut V2: 367 
+
+Test8 
+Rezultat obtinut V1: 720 
+Rezultat obtinut V2: 720 
+
+Test9 
+Rezultat obtinut V1: 800 
+Rezultat obtinut V2: 800 
+
+Test10 
+Rezultat obtinut V1: 768 
+Rezultat obtinut V2: 768 
+
+
+
